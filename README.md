@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# No Loading Screen
 
-## Setup
+## What does it do?
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+COMPLETELY REMOVES THE LOADING SCREEN (RECOMMENDED FOR CPVP)
 
-## License
+##Download
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+[CLICK HERE TO DOWNOLAD](https://github.com/Dino-log/NoLoadingScreen/releases)
