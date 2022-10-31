@@ -1,0 +1,2 @@
+v1	named	intermediary
+FIELD	me/dino/noloadingscreen/mixins/NoLoadingScreenMixin	Lnet/minecraft/client/MinecraftClient;	client	field_3690

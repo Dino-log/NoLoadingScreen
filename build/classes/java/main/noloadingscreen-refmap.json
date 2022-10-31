@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "me/dino/noloadingscreen/mixins/NoLoadingScreenMixin": {
+      "onPlayerPositionLook": "Lnet/minecraft/class_634;method_11157(Lnet/minecraft/class_2708;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "me/dino/noloadingscreen/mixins/NoLoadingScreenMixin": {
+        "onPlayerPositionLook": "Lnet/minecraft/class_634;method_11157(Lnet/minecraft/class_2708;)V"
+      }
+    }
+  }
+}
